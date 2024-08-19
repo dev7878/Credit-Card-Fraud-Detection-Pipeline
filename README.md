@@ -1,11 +1,9 @@
-Here's a README file for the Credit Card Fraud Detection Pipeline:
 
-```markdown
 # Credit Card Fraud Detection Pipeline
 
 ## Overview
 
-This project demonstrates a machine learning pipeline for detecting fraudulent credit card transactions. The goal is to preprocess the data, build a model, and evaluate its performance in identifying fraudulent transactions.
+This project demonstrates a machine-learning pipeline for detecting fraudulent credit card transactions. The goal is to preprocess the data, build a model, and evaluate its performance in identifying fraudulent transactions.
 
 ## Table of Contents
 
@@ -15,8 +13,6 @@ This project demonstrates a machine learning pipeline for detecting fraudulent c
 - [Usage](#usage)
 - [Model Pipeline](#model-pipeline)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
@@ -42,14 +38,14 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/yourusername/CreditCardFraudDetection.git
     cd CreditCardFraudDetection
     ```
 
 2. Install the required Python packages:
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -59,7 +55,7 @@ To run this project locally, follow these steps:
 
 Open the Jupyter notebook:
 
-```bash
+```
 jupyter notebook notebooks/CreditCardFraudDetection.ipynb
 ````
 
